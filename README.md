@@ -1,5 +1,7 @@
 [Sleepy](https://bywhite-sleepy.hf.space/)
 
+<img src="https://spotify-badge.kaho.top/api/now-playing.svg" width="540" height="52"/>
+
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--
